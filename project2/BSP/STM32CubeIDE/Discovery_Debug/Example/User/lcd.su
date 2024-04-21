@@ -1,0 +1,3 @@
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Src/lcd.c:49:6:LCD_demo	8	static
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Src/lcd.c:77:13:LCD_SetHint	16	static
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Src/lcd.c:105:13:LCD_Show_Feature	56	static

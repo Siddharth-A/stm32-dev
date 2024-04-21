@@ -1,0 +1,9 @@
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Utilities/Log/lcd_log.c:122:6:LCD_LOG_Init	1
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Utilities/Log/lcd_log.c:136:6:LCD_LOG_DeInit	1
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Utilities/Log/lcd_log.c:158:6:LCD_LOG_SetHeader	1
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Utilities/Log/lcd_log.c:182:6:LCD_LOG_SetFooter	1
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Utilities/Log/lcd_log.c:206:6:LCD_LOG_ClearTextZone	2
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Utilities/Log/lcd_log.c:224:1:__io_putchar	11
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Utilities/Log/lcd_log.c:300:6:LCD_LOG_UpdateDisplay	5
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Utilities/Log/lcd_log.c:348:13:LCD_LOG_ScrollBack	12
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Utilities/Log/lcd_log.c:420:13:LCD_LOG_ScrollForward	9

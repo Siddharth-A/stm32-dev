@@ -1,0 +1,7 @@
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Src/ts_calibration.c:51:6:Touchscreen_Calibration	24	static
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Src/ts_calibration.c:100:13:TouchscreenCalibration_SetHint	8	static
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Src/ts_calibration.c:123:13:GetPhysValues	24	static
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Src/ts_calibration.c:149:13:WaitForPressedState	32	static
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Src/ts_calibration.c:180:10:Calibration_GetX	16	static
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Src/ts_calibration.c:190:10:Calibration_GetY	16	static
+/Users/Shared/D/Projects/22stm32/stm32-dev/project2/BSP/Src/ts_calibration.c:200:9:IsCalibrationDone	4	static
